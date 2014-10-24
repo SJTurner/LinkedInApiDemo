@@ -26,6 +26,3 @@ C:\Source\Test Dev\LinkedInApiDemo\LinkedInApiDemo\bin\Newtonsoft.Json.xml
 C:\Source\Test Dev\LinkedInApiDemo\LinkedInApiDemo\obj\Debug\LinkedInApiDemo.csprojResolveAssemblyReference.cache
 C:\Source\Test Dev\LinkedInApiDemo\LinkedInApiDemo\obj\Debug\LinkedInApiDemo.dll
 C:\Source\Test Dev\LinkedInApiDemo\LinkedInApiDemo\obj\Debug\LinkedInApiDemo.pdb
-C:\Source\Test Dev\LinkedInApiDemo\LinkedInApiDemo\bin\AutoMapper.Net4.dll
-C:\Source\Test Dev\LinkedInApiDemo\LinkedInApiDemo\bin\AutoMapper.dll
-C:\Source\Test Dev\LinkedInApiDemo\LinkedInApiDemo\bin\AutoMapper.xml
