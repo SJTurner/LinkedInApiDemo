@@ -8,7 +8,7 @@ namespace LinkedInApiDemo.Controllers
 {
     public class ProfileController : Controller
     {
-        private const string SearchCriteria = "people/~:(first-name,last-name,educations)";
+        private const string SearchCriteria = "people/~:(first-name,last-name,picture-url,educations)";
 
         public ActionResult Index(string code, string state)
         {

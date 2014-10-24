@@ -11,6 +11,8 @@ namespace LinkedInApiDemo.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public Educations Educations { get; set; }
+        [JsonProperty(PropertyName = "pictureUrl")]
+        public string ProfileImageUrl { get; set; }
     }
 
     public class Educations
