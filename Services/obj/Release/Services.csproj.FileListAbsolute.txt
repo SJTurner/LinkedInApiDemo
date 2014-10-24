@@ -1,0 +1,4 @@
+C:\Source\Test Dev\LinkedInApiDemo\Services\bin\Release\Services.dll
+C:\Source\Test Dev\LinkedInApiDemo\Services\bin\Release\Services.pdb
+C:\Source\Test Dev\LinkedInApiDemo\Services\obj\Release\Services.dll
+C:\Source\Test Dev\LinkedInApiDemo\Services\obj\Release\Services.pdb
