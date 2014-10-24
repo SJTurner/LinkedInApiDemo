@@ -1,7 +1,0 @@
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\obj\Debug\OauthService.dll
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\obj\Debug\OauthService.pdb
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\bin\Debug\OauthService.dll
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\bin\Debug\OauthService.pdb
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\bin\Debug\Newtonsoft.Json.dll
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\bin\Debug\Newtonsoft.Json.xml
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\obj\Debug\Services.csprojResolveAssemblyReference.cache

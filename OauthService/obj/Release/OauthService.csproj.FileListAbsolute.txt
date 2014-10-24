@@ -1,6 +1,0 @@
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\bin\Release\OauthService.dll
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\bin\Release\OauthService.pdb
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\bin\Release\Newtonsoft.Json.dll
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\bin\Release\Newtonsoft.Json.xml
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\obj\Release\OauthService.dll
-C:\Source\Test Dev\LinkedInApiDemo\OauthService\obj\Release\OauthService.pdb
