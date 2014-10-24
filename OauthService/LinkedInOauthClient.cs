@@ -41,8 +41,6 @@ namespace OauthService
             using (var client = new HttpClient())
             {
                 var url = new Uri(string.Concat(ApiUrl, searchString));
-               
-                var address2 = new Uri("https://api.linkedin.com/v1/people/~:(educations,positions)");
 
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Add("Authorization", string.Format("Bearer {0}", token.AccessToken));
